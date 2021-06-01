@@ -5,27 +5,32 @@ import Main from '../layouts/Main';
 
 const Index = () => (
   <Main
-    description={"Michael D'Angelo's personal website. New York based Stanford ICME graduate, "
-    + 'co-founder and CTO of Arthena, and YC Alumni.'}
+    description={"David C. Danko's personal website. New York based Computational Biologist researching urban microbiomes."}
   >
     <article className="post" id="index">
       <header>
         <div className="title">
-          <h2 data-testid="heading"><Link to="/">About this site</Link></h2>
+          <h2 data-testid="heading"><Link to="/">Urban Ecologies, Human Health</Link></h2>
           <p>
-            A beautiful, responsive, statically-generated,
-            react application written with modern Javascript.
+            I study how human health is affected by the cities we live in.
           </p>
         </div>
       </header>
-      <p> Welcome to my website. Please feel free to read more <Link to="/about">about me</Link>,
-        or you can check out my {' '}
-        <Link to="/resume">resume</Link>, {' '}
-        <Link to="/projects">projects</Link>, {' '}
-        view <Link to="/stats">site statistics</Link>, {' '}
-        or <Link to="/contact">contact</Link> me.
+      <p>
+        I am a New York based Computational Biologist researching
+        how cities affect human health. My goals are to develop
+        quantitative molecular measures of human health, unravel
+        changes in the environment from the start of the industrial
+        revolution, and design resources for public health.
       </p>
-      <p> Source available <a href="https://github.com/mldangelo/personal-site">here</a>.</p>
+      <p>
+        Currently I am a Bioinformatician at Biotia and the Director of
+        Bioinformatics for the MetaSUB Consortium.
+        I did my Ph.D. research at Weill Cornell under Chris Mason and
+        Iman Hajirasouliha. Before that I worked at the Kennedy Institute
+        in Oxford under Fiona Powrie and did my Undergraduate research at
+        MIT with Bonnie Berger.
+      </p>
     </article>
   </Main>
 );
