@@ -12,7 +12,7 @@ const Index = () => (
         <div className="title">
           <h2 data-testid="heading"><Link to="/">Urban Ecologies, Human Health</Link></h2>
           <p>
-            I study how human health is affected by the cities we live in.
+            How human health is affected by the cities we live in.
           </p>
         </div>
       </header>

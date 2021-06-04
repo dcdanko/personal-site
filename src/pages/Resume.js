@@ -4,15 +4,19 @@ import { Link } from 'react-router-dom';
 import Main from '../layouts/Main';
 
 import Education from '../components/Resume/Education';
+import Papers from '../components/Resume/Papers';
+
 import Experience from '../components/Resume/Experience';
 import References from '../components/Resume/References';
 
 import degrees from '../data/resume/degrees';
 import positions from '../data/resume/positions';
+import papers from '../data/resume/papers';
 
 const sections = [
   'Education',
   'Experience',
+  'Publications',
   'References',
 ];
 
@@ -31,11 +35,11 @@ const Resume = () => (
                 <a href={`#${sec.toLowerCase()}`}>{sec}</a>
               </h4>))}
           </div>
-
         </div>
       </header>
       <Education data={degrees} />
       <Experience data={positions} />
+      <Papers data={papers} />
       <References />
 
     </article>
