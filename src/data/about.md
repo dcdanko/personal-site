@@ -6,5 +6,5 @@ I am a computational biologist using DNA sequencing to understand how environmen
 
 # Currently
 
-Right now, I work as the Director of Software Engineering and Bioinformatics at [Biotia](https://biotia.io/) where my team and I use machine learning to build diagnostic tests based on sequencing.
+Right now, I work as the Director of Software Engineering and Bioinformatics at [Biotia](https://biotia.io/) where my team and I use machine learning to build clinical grade diagnostic tests based on sequencing
 
