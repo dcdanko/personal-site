@@ -14,7 +14,7 @@ Publication.propTypes = {
   data: PropTypes.shape({
     title: PropTypes.string,
     journal: PropTypes.string,
-    year: PropTypes.number,
+    year: PropTypes.string,
     url: PropTypes.string,
     authors: PropTypes.string,
   }).isRequired,
