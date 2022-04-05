@@ -59,7 +59,7 @@ Papers.propTypes = {
   data: PropTypes.arrayOf(PropTypes.shape({
     title: PropTypes.string,
     journal: PropTypes.string,
-    year: PropTypes.number,
+    year: PropTypes.string,
     url: PropTypes.string,
     authors: PropTypes.string,
   })),
