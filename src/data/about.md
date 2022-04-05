@@ -6,5 +6,5 @@ I am a computational biologist using DNA sequencing to understand how environmen
 
 # Currently
 
-Right now I split my time between working to develop microbial identification tests for Biotia and a Post-Doc in the Chris Mason Lab. My primary research interests right now are understanding how the immune system reacts to specific microbes and how wastewater sampling can be used to measure the health of urban populations.
+Right now, I work as the Director of Software Engineering and Bioinformatics at [Biotia](https://biotia.io/) where my team and I use machine learning to build diagnostic tests based on sequencing.
 
