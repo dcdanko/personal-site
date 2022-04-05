@@ -24,12 +24,16 @@ const Index = () => (
         revolution, and design resources for public health.
       </p>
       <p>
-        Currently I am a Bioinformatician at Biotia and the Director of
-        Bioinformatics for the MetaSUB Consortium.
-        I did my Ph.D. research at Weill Cornell under Chris Mason and
+        I did my Ph.D. in Computational Biology researching Urban Microbiomes
+        and Human Microbe Interaction at Weill Cornell under Chris Mason and
         Iman Hajirasouliha. Before that I worked at the Kennedy Institute
         in Oxford under Fiona Powrie and did my Undergraduate research at
         MIT with Bonnie Berger.
+      </p>
+      <p>
+        Now, I work as the Director of Software Engineering and Bioinformatics at Biotia
+        where my team and I use machine learning to build clinical grade diagnostic
+        tests based on sequencing.
       </p>
     </article>
   </Main>
